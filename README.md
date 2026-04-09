@@ -75,9 +75,3 @@ class-connect/
    ```
    *Frontend will be available at `http://localhost:5173`*
 
-## 📸 Screenshots
-
-Detailed screenshots and a project walkthrough can be found in the `brain/` directory of the workspace artifacts.
-
----
-Created with ❤️ by Antigravity
